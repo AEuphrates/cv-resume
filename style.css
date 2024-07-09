@@ -1,0 +1,43 @@
+.heading{
+    background-color: #E3FDFD !important;
+}
+
+.education{
+    background-color: #CBF1F5 !important;
+}
+
+.footer{
+    background-color: #71C9CE !important;
+}
+
+.referances{
+    background-color: #A6E3E9 !important;
+}
+
+.text-body-emphasis{
+    font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.paragraph{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.profile{
+    border-radius: 50%;
+    position: relative;
+    left: 600px;
+}
+
+.logo {
+    width: 2rem;
+    height: 2rem;
+}
+
+.headingskills{
+    font-size: normal;
+}
